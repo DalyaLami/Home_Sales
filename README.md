@@ -26,9 +26,9 @@ Requirements for the software and other tools to build, test and push
 - Perform the necessary calculations and then create a high-level snapshot of the district's key metrics in a DataFrame.
 Include the following:
 
-  1. Rename the Home_Sales_starter_code.ipynb file as Home_Sales.ipynb.
-  2. Import the necessary PySpark SQL functions for this assignment.
-  3. Read the home_sales_revised.csv data in the starter code into a Spark DataFrame.
+1. Rename the Home_Sales_starter_code.ipynb file as Home_Sales.ipynb.
+2. Import the necessary PySpark SQL functions for this assignment.
+3. Read the home_sales_revised.csv data in the starter code into a Spark DataFrame.
   4. Create a temporary table called home_sales.
   5. Answer the following questions using SparkSQL:
      - What is the average price for a four-bedroom house sold for each year? Round off your answer to two decimal places.
