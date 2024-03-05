@@ -18,6 +18,7 @@ Requirements for the software and other tools to build, test and push
 
 - [Jupyter Notebook](https://jupyter.org/)
 - [PySpark SQL](https://phoenixnap.com/kb/jupyter-pyspark#:~:text=Import%20the%20findspark%20module%2C%20initialize%20the%20module%2C%20and,show%20any%20errors%2C%20indicating%20the%20import%20was%20successful.)
+- [Pyspark](https://spark.apache.org/docs/latest/api/python/getting_started/install.html)
   
 
 ## Coding Instruction
